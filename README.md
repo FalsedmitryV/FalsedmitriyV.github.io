@@ -319,7 +319,7 @@
         </div>
       </div>
       <div class="hero-media">
-        <img src="https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=70" alt="Здание учебного корпуса">
+        <img src="images/campus-building.jpg" width="1200" height="786" loading="lazy" alt="Здание учебного корпуса">
       </div>
     </div>
   </div>
@@ -409,7 +409,7 @@
         <p style="color:var(--text-2);font-size:.95rem"><a href="https://www.copyright.gov/fair-use/" target="_blank" rel="noopener">Разъяснение Бюро авторского права США о fair use</a></p>
       </div>
       <figure>
-        <img src="https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1000&q=70" alt="Книжные стеллажи библиотеки">
+        <img src="images/library-shelves.jpg" width="1000" height="924" loading="lazy" alt="Книжные стеллажи библиотеки">
         <figcaption>Фотография: Unsplash</figcaption>
       </figure>
     </div>
@@ -499,7 +499,7 @@
 
     <div class="media-row" style="margin-top:32px">
       <figure>
-        <img src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1000&q=70" alt="Скульптура Фемиды с весами">
+        <img src="images/themis-statue.jpg" width="1000" height="667" loading="lazy" alt="Скульптура Фемиды с весами">
         <figcaption>Фотография: Unsplash</figcaption>
       </figure>
       <div>
@@ -677,7 +677,7 @@
         </div>
       </div>
       <figure>
-        <img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1000&q=70" alt="Выступление на сцене">
+        <img src="images/stage-performance.jpg" width="1000" height="667" loading="lazy" alt="Выступление на сцене">
         <figcaption>Фотография: Unsplash</figcaption>
       </figure>
     </div>
@@ -809,7 +809,7 @@
 
     <div class="media-row" style="margin-top:32px">
       <figure>
-        <img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1000&q=70" alt="Оформление документов">
+        <img src="images/documents.jpg" width="1000" height="667" loading="lazy" alt="Оформление документов">
         <figcaption>Фотография: Unsplash</figcaption>
       </figure>
       <div>

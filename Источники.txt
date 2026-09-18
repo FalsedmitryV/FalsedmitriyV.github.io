@@ -1,0 +1,202 @@
+СПИСОК ИСТОЧНИКОВ, ИСПОЛЬЗОВАННЫХ ПРИ ПОДГОТОВКЕ МАТЕРИАЛА
+Памятка «Использование чужих изображений, музыки и текстов в учебной деятельности»
+Составлен по ссылкам, размещённым на страницах сайта. Дата составления: 18.09.2026
+
+
+1. НОРМАТИВНЫЕ ПРАВОВЫЕ АКТЫ РОССИЙСКОЙ ФЕДЕРАЦИИ
+
+Гражданский кодекс Российской Федерации, часть четвёртая
+https://www.consultant.ru/document/cons_doc_LAW_64629/
+
+Статья 1229 ГК РФ. Исключительное право
+https://www.zakonrf.info/gk/1229/
+
+Статья 1236 ГК РФ. Виды лицензионных договоров
+https://www.zakonrf.info/gk/1236/
+
+Статья 1255 ГК РФ. Авторские права
+https://www.zakonrf.info/gk/1255/
+
+Статья 1257 ГК РФ. Автор произведения
+https://www.zakonrf.info/gk/1257/
+
+Статья 1259 ГК РФ. Объекты авторских прав
+https://www.zakonrf.info/gk/1259/
+
+Статья 1260 ГК РФ. Переводы, иные производные произведения
+https://www.zakonrf.info/gk/1260/
+
+Статья 1266 ГК РФ. Право на неприкосновенность произведения
+https://www.zakonrf.info/gk/1266/
+
+Статья 1268 ГК РФ. Право на обнародование произведения
+https://www.zakonrf.info/gk/1268/
+
+Статья 1270 ГК РФ. Исключительное право на произведение
+https://www.zakonrf.info/gk/1270/
+
+Статья 1273 ГК РФ. Свободное воспроизведение в личных целях
+https://www.zakonrf.info/gk/1273/
+
+Статья 1274 ГК РФ. Свободное использование произведения в информационных,
+научных, учебных или культурных целях
+https://www.zakonrf.info/gk/1274/
+
+Статья 1276 ГК РФ. Свободное использование произведения, постоянно находящегося
+в месте, открытом для свободного посещения
+https://www.zakonrf.info/gk/1276/
+
+Статья 1280 ГК РФ. Право пользователя программы для ЭВМ и базы данных
+https://www.zakonrf.info/gk/1280/
+
+Статья 1281 ГК РФ. Срок действия исключительного права на произведение
+https://www.zakonrf.info/gk/1281/
+
+Статья 1282 ГК РФ. Переход произведения в общественное достояние
+https://www.zakonrf.info/gk/1282/
+
+Статья 1286 ГК РФ. Лицензионный договор о предоставлении права использования
+произведения
+https://www.zakonrf.info/gk/1286/
+
+Статья 1295 ГК РФ. Служебное произведение
+https://www.zakonrf.info/gk/1295/
+
+Статья 1301 ГК РФ. Ответственность за нарушение исключительного права
+на произведение
+https://www.zakonrf.info/gk/1301/
+
+Статья 1303 ГК РФ. Основные положения о смежных правах
+https://www.zakonrf.info/gk/1303/
+
+Статья 1304 ГК РФ. Объекты смежных прав
+https://www.zakonrf.info/gk/1304/
+
+Статья 7.12 КоАП РФ. Нарушение авторских и смежных, изобретательских
+и патентных прав
+https://www.zakonrf.info/koap/7.12/
+
+Официальный интернет-портал правовой информации
+http://pravo.gov.ru/
+
+
+2. МЕЖДУНАРОДНЫЕ ДОГОВОРЫ
+
+Бернская конвенция по охране литературных и художественных произведений, 1886
+https://www.wipo.int/treaties/ru/ip/berne/
+Текст на русском языке:
+https://www.consultant.ru/document/cons_doc_LAW_5112/
+
+Римская конвенция об охране прав исполнителей, изготовителей фонограмм
+и вещательных организаций, 1961
+https://www.wipo.int/treaties/ru/ip/rome/
+
+Договор ВОИС по авторскому праву, 1996
+https://www.wipo.int/treaties/ru/ip/wct/
+
+Договор ВОИС по исполнениям и фонограммам, 1996
+https://www.wipo.int/treaties/ru/ip/wppt/
+
+Соглашение по торговым аспектам прав интеллектуальной собственности (ТРИПС), 1994
+https://www.wto.org/english/tratop_e/trips_e/trips_e.htm
+
+Всемирная организация интеллектуальной собственности, раздел об авторском праве
+https://www.wipo.int/ru/web/copyright
+
+
+3. ЗАРУБЕЖНЫЕ РАЗЪЯСНЕНИЯ
+
+Бюро авторского права США. Разъяснение доктрины fair use
+https://www.copyright.gov/fair-use/
+
+
+4. ЛИЦЕНЗИИ CREATIVE COMMONS
+
+Описание лицензий Creative Commons
+https://creativecommons.org/share-your-work/cclicenses/
+
+Рекомендации Creative Commons по указанию автора (формула TASL)
+https://wiki.creativecommons.org/wiki/Best_practices_for_attribution
+
+Тексты лицензий:
+CC0 1.0          https://creativecommons.org/publicdomain/zero/1.0/deed.ru
+CC BY 4.0        https://creativecommons.org/licenses/by/4.0/deed.ru
+CC BY-SA 4.0     https://creativecommons.org/licenses/by-sa/4.0/deed.ru
+CC BY-ND 4.0     https://creativecommons.org/licenses/by-nd/4.0/deed.ru
+CC BY-NC 4.0     https://creativecommons.org/licenses/by-nc/4.0/deed.ru
+CC BY-NC-SA 4.0  https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru
+CC BY-NC-ND 4.0  https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru
+
+Организация Creative Commons
+https://creativecommons.org/
+
+
+5. ОРГАНИЗАЦИИ ПО УПРАВЛЕНИЮ ПРАВАМИ
+
+Российское авторское общество (РАО)
+https://rao.ru/
+Раздел для пользователей, порядок заключения лицензионного договора:
+https://rao.ru/for-users/
+
+Всероссийская организация интеллектуальной собственности (ВОИС)
+https://rosvois.ru/
+
+
+6. КАТАЛОГИ МАТЕРИАЛОВ СО СВОБОДНЫМИ ЛИЦЕНЗИЯМИ
+
+Изображения:
+Wikimedia Commons                  https://commons.wikimedia.org/
+Материалы общественного достояния  https://commons.wikimedia.org/wiki/Category:Public_domain
+Flickr, раздел Creative Commons    https://www.flickr.com/creativecommons/
+Unsplash                           https://unsplash.com/
+Pexels                             https://www.pexels.com/
+Openverse                          https://openverse.org/
+
+Музыка и звук:
+Free Music Archive                 https://freemusicarchive.org/
+Jamendo                            https://www.jamendo.com/start
+Freesound                          https://freesound.org/
+
+Видео:
+Internet Archive                   https://archive.org/
+Vimeo, раздел Creative Commons     https://vimeo.com/creativecommons
+Pexels Videos                      https://www.pexels.com/videos/
+
+Тексты и публикации:
+DOAJ, журналы открытого доступа    https://www.doaj.org/
+Научная электронная библиотека     https://elibrary.ru/
+
+
+7. ИЛЛЮСТРАЦИИ, ИСПОЛЬЗОВАННЫЕ НА СТРАНИЦЕ
+
+Все фотографии размещены на сервисе Unsplash и используются на условиях
+Unsplash License: https://unsplash.com/license
+
+Первый экран, здание учебного корпуса
+https://images.unsplash.com/photo-1562774053-701939374585
+
+Раздел 1, книжные стеллажи библиотеки
+https://images.unsplash.com/photo-1481627834876-b7833e8f5570
+
+Раздел 2, скульптура Фемиды с весами
+https://images.unsplash.com/photo-1589829545856-d10d557cf95f
+
+Раздел 4, выступление на сцене
+https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f
+
+Раздел 6, оформление документов
+https://images.unsplash.com/photo-1450101499163-c8848c66ca85
+
+
+8. ТЕХНИЧЕСКИЕ РЕСУРСЫ
+
+Шрифт Roboto, Google Fonts (лицензия Apache License 2.0)
+https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap
+
+
+ПРИМЕЧАНИЕ
+
+Список составлен по ссылкам двух файлов сайта: README.md (основная памятка)
+и pravomernoe-ispolzovanie.html (ранняя версия страницы). Ранняя версия
+самостоятельных источников не содержит, её материал полностью вошёл
+в основную памятку.
